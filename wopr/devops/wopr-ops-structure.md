@@ -1,5 +1,7 @@
 # wopr-ops Repository Structure
 
+> Implements: [method/devops/ops-repo-structure.md](../../method/devops/ops-repo-structure.md)
+
 > Reference: the `wopr-network/wopr-ops` git repository serves as WOPR's operational logbook.
 > See [logbook protocol](./logbook-protocol.md) for the protocol governing this repo.
 
