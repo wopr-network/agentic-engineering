@@ -106,4 +106,4 @@ The deploy stage is complete when:
 - **No deployment record** — "what version is running?" should never be a mystery.
 - **Deploying on Friday** — not literally about Fridays, but about deploying when the team isn't available to respond to incidents.
 
-See [WOPR implementation](../../wopr/pipeline/stages/06-deploy.md).
+See [WOPR implementation](../../../wopr/pipeline/stages/06-deploy.md).
