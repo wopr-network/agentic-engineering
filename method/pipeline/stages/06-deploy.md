@@ -105,3 +105,5 @@ The deploy stage is complete when:
 - **No health checks after deploy** — deploying and walking away. The service might be up but broken.
 - **No deployment record** — "what version is running?" should never be a mystery.
 - **Deploying on Friday** — not literally about Fridays, but about deploying when the team isn't available to respond to incidents.
+
+See [WOPR implementation](../../wopr/pipeline/stages/06-deploy.md).

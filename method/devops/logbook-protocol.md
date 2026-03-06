@@ -135,3 +135,5 @@ The format matters less than the discipline. Pick a format that your agents can 
 - **Logbook as afterthought** — writing entries after the incident is over, from memory, days later. Write entries as events happen.
 - **Logbook nobody reads** — a logbook that exists but isn't consulted before actions is just a journal. It's only useful if agents and humans read it before acting.
 - **Mutable history** — editing past entries to "clean up." The log is a record of what happened, not what you wish happened.
+
+See [WOPR implementation](../../wopr/devops/logbook-protocol.md).
