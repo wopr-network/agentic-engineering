@@ -174,3 +174,5 @@ The operations agent reads the logbook before every action, operates scripted pr
 - **Migrate without backup** — destructive migrations without a database snapshot are irrecoverable.
 - **Ignoring the logbook** — deploying without checking what's currently running. The logbook exists to be read.
 - **Chaining operations without verification** — migrate then deploy then scale without checking each step. Verify after every operation.
+
+See [WOPR implementation](../../wopr/devops/operations.md).

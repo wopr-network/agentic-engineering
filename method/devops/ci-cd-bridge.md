@@ -146,3 +146,5 @@ QA team verifies
 - **Slow CI** — a CI pipeline that takes 30+ minutes discourages frequent PRs and slows the pipeline. Optimize CI for speed.
 - **Flaky CI** — tests that sometimes pass and sometimes fail. Flaky tests erode trust in the gate system. Fix or remove them.
 - **CI as the only gate** — CI catches code-level issues. It doesn't catch environment issues, integration issues, or production data issues. CI is necessary but not sufficient.
+
+See [WOPR implementation](../../wopr/devops/ci-cd-bridge.md).
