@@ -75,3 +75,7 @@ Supporting concerns (local development setup, CI/CD integration, GPU or speciali
 - **Human-readable.** Every file is plain text. The audience includes both humans responding to incidents and automated agents performing routine operations.
 - **No secrets in the repo.** Record that a secret exists, not its value.
 - **Linked, not duplicated.** Cross-reference between documents. Do not copy content.
+
+---
+
+See [WOPR implementation](../../wopr/devops/wopr-ops-structure.md)
